@@ -1,2 +1,2 @@
-# retail-sales-data-analysis
+# Retail-sales-data-analysis
 A project to analyze retail sales data using Python, Pandas, and Tableau.
